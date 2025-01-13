@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="5225" dy="253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6775" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,13 +32,13 @@
           <mxGeometry x="490" y="100" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jr-n6Z9DIesCHv_oQTnh-1555" value="Computer Vision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="100" width="165" height="40" as="geometry" />
+          <mxGeometry x="720" y="100" width="165" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jr-n6Z9DIesCHv_oQTnh-1556" value="Speech Recognition and Synthesis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="945" y="100" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jr-n6Z9DIesCHv_oQTnh-1557" value="Robotics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="100" width="180" height="40" as="geometry" />
+          <mxGeometry x="1210" y="100" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jr-n6Z9DIesCHv_oQTnh-1558" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Regression&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1285" y="160" width="70" height="30" as="geometry" />
@@ -1084,6 +1084,171 @@
         </mxCell>
         <mxCell id="jr-n6Z9DIesCHv_oQTnh-1833" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Voting Classifier (Soft/Hard)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1860" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Text Classification&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1861" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Sentiment Analysis&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="205" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1862" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Named Entity Recognition (NER)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1864" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Machine Translation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="295" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1865" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Text Summarization&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1866" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Question Answering&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1867" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Text Generation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1868" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Speech-to-Text&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="490" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1869" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Text-to-Speech (TTS)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="540" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1870" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Topic Modeling&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="590" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1871" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Dependency Parsing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1872" value="Part-of-Speech (POS) Tagging" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1873" value="Coreference Resolution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="740" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1874" value="Language Modeling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="790" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1875" value="Text Similarity/Matching" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="840" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1876" value="Dialogue Systems/Chatbots" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="890" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1877" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Image Classification&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1878" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Object Detection&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="205" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1879" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Semantic Segmentation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="260" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1880" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Instance Segmentation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1881" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Image Generation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1882" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Image-to-Image Translation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="440" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1883" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Pose Estimation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1884" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Facial Recognition&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="550" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1885" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Image Captioning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="600" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1886" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;3D Vision&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="650" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1887" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Optical Flow&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="700" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1889" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Video Analysis&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="750" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1890" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Super-Resolution&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="800" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1891" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Image Retrieval&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="850" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1892" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Style Transfer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="900" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1893" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Anomaly Detection&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="950" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1894" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Speech Recognition (ASR)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1895" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Speech Synthesis (TTS)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1896" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Speech Synthesis (TTS)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1897" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Speaker Recognition&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="305" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1898" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Speaker Recognition&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="365" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1899" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Voice Activity Detection (VAD)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="420" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1900" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Emotion Recognition&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="470" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1901" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Keyword Spotting&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="530" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1902" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Speech Enhancement&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="580" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1903" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Speech Translation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="640" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1904" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Motion Planning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1905" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Robot Perception&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="205" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1906" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Navigation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1907" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Localization&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1908" value="Mapping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="295" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1909" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Grasping and Manipulation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1910" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Robot Vision&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="460" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1911" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Reinforcement Learning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="510" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1912" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Multi-Robot Coordination&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="560" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1913" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Multi-Robot Coordination&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="610" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1914" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Human-Robot Interaction (HRI)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="660" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1915" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Teleoperation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="710" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jr-n6Z9DIesCHv_oQTnh-1916" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Simulations&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="770" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
